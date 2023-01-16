@@ -9,6 +9,18 @@ Planned features include:
 - Screenshot media library and achievements manager
 - Ability to track play time per game
 
+
+# Requirements
+
+Currently, Retrofy is by and large a solo project. All help - especially in the form of pull requests or direct help - is greatly appreciated. For ease of communication, here are some components that need to be overhauled and/or coded:
+
+- UI/UX: Better color gradients, shades, borders and transitions. Focus on minimalism and not so "in your face"
+- A solution for the login form so a database of hundreds of thousands of usernames can be input and queried
+- Different menus and submenus on the second page after logging in divided into an account information screen, configuration and a feedback/customer support menu
+- File support for .wii, .gc and .3ds games (or all supported video game consoles down below). Retrofy users should be able to open their explorers after logging in and use all of their dumped games from the get go
+- Dolphin Emulator and Citra Emulator integration. Game files should be opened by emulator and emulation source.
+- A display method for all of the games in a users library
+
 # Summary of Retrofy's technical workings
 
 At its core Retroy is an amalgamation of multiple different emulator engines, which emulate different home video game consoles depending on the input source (i.e game) that is being played. Retrofy itself only ever unites all of these different emulators into one singular interface for ease of use so that the user can access any game at any time without having to swap between applications.
