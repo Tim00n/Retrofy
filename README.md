@@ -5,6 +5,7 @@ Retrofy is a cross-platform retro gaming service, which lets you play, view and 
 <p align="center"> 
 Login screen
 </p>
+
 ![image](https://user-images.githubusercontent.com/103383767/215565571-f9e056b3-f2c8-4dd3-bf12-9ebb28566f50.png)
 <p align="center"> 
 Library (Work in progress)
