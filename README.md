@@ -1,12 +1,12 @@
 # Retrofy
 Retrofy is a cross-platform retro gaming service, which lets you play, view and store all of your retro games in one place with upscaled resolution.
 
-![image](https://user-images.githubusercontent.com/103383767/215564729-1692a3d3-8a63-4318-a9da-06e1a3bf6c85.png)
+![image](https://user-images.githubusercontent.com/103383767/216842459-bc707751-a186-471e-b76b-85c87522d71f.png)
 <p align="center"> 
 Login screen
 </p>
 
-![image](https://user-images.githubusercontent.com/103383767/215565571-f9e056b3-f2c8-4dd3-bf12-9ebb28566f50.png)
+![image](https://user-images.githubusercontent.com/103383767/216842468-35794962-29fe-41f3-b06f-c64cd9d93563.png)
 <p align="center"> 
 Library (Work in progress)
 </p>
@@ -31,7 +31,7 @@ Currently, Retrofy is by and large a solo project. All help - especially in the 
 
 - UI/UX: Better color gradients, shades, borders and transitions. Focus on minimalism and not so "in your face"
 - A solution for the login form so a database of hundreds of thousands of usernames can be input and queried
-- A display method for all of the games in a users library
+- A display method for all of the games in a users library (GameTDB, Cover downloads, box art)
 - Natively integrating Dolphin Emulator and Citra Emulator into the codebase so that it can run game files from inside of Retrofy
 
 # Summary of Retrofy's technical workings
